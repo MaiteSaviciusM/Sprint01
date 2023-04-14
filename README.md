@@ -48,7 +48,7 @@ Para executar este projeto, é necessário ter os seguintes materiais:
 Também é necessário ter conhecimentos básicos em eletrônica e programação em Arduino.
 
 ## Esquema elétrico
-O esquema elétrico do circuito pode ser encontrado no seguinte link: esquema elétrico
+O esquema elétrico do circuito pode ser encontrado no seguinte link:<a href="https://www.tinkercad.com/things/7Qot2fRLKQA"> esquema elétrico</a>
 
 <br><img src="https://github.com/devCaiqueWS/Sprint01/blob/main/circuit_ino.PNG">
 
@@ -56,7 +56,7 @@ O esquema elétrico do circuito pode ser encontrado no seguinte link: esquema el
 O sensor MQ-135 mede a quantidade de gases tóxicos no ar, como CO, amônia, benzeno, entre outros. Essas informações são processadas pelo microcontrolador Arduino, que as exibe no monitor LCD.
 
 ## Link para Video explicativo
-Um vídeo explicativo sobre este projeto pode ser encontrado no seguinte link: <a href="https://www.youtube.com/watch?v=0RMNj6OlUhY">link vídeo explicativo</a>
+Um vídeo explicativo sobre este projeto pode ser encontrado no seguinte link: <a href="https://www.youtube.com/watch?v=0RMNj6OlUhY"> link vídeo explicativo</a>
 
 ## Conclusão
 Este projeto mostrou que é possível desenvolver um dispositivo simples e eficiente para monitorar a qualidade do ar em ambientes fechados. Com algumas adaptações, é possível expandir o projeto para monitorar outros parâmetros, como temperatura, umidade, luminosidade, etc.
