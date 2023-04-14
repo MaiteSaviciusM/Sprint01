@@ -4,7 +4,7 @@
 O objetivo deste projeto é desenvolver um dispositivo que possa analisar a qualidade do ar em um ambiente fechado e exibir as informações em um monitor LCD. Isso pode ser útil para monitorar a poluição do ar em ambientes internos, como salas de aula, escritórios, residências, etc.
 
 ## Descrição do desafio
-O desafio propor soluções de sustentabilidade para os centros urbanos, usando tecnologia e os conhecimentos adquiridos ao longo do curso, podendo assim contribuir para a conscientização da população e das organizações, para o monitoramento ambiental, o tratamento de problemas ou mesmo para propiciar a recuperação do impacto de problemas que afetem o meio ambiente e o bem estar dos cidadãos.
+O desafio foi propor soluções de sustentabilidade para os centros urbanos, usando tecnologia e os conhecimentos adquiridos ao longo do curso, podendo assim contribuir para a conscientização da população e das organizações, para o monitoramento ambiental, o tratamento de problemas ou mesmo para propiciar a recuperação do impacto de problemas que afetem o meio ambiente e o bem estar dos cidadãos.
 
 ## Como executar o projeto
 Para executar o projeto, é necessário seguir os seguintes passos:
