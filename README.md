@@ -57,6 +57,7 @@ O sensor MQ-135 mede a quantidade de gases tóxicos no ar, como CO, amônia, ben
 
 ## Link para Video explicativo
 Um vídeo explicativo sobre este projeto pode ser encontrado no seguinte link: <a href="https://www.youtube.com/watch?v=0RMNj6OlUhY"> link vídeo explicativo</a>
+<a href="https://www.youtube.com/watch?v=0RMNj6OlUhY"> vídeo 2</a>
 
 ## Conclusão
 Este projeto mostrou que é possível desenvolver um dispositivo simples e eficiente para monitorar a qualidade do ar em ambientes fechados. Com algumas adaptações, é possível expandir o projeto para monitorar outros parâmetros, como temperatura, umidade, luminosidade, etc.
