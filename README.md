@@ -50,7 +50,7 @@ Também é necessário ter conhecimentos básicos em eletrônica e programação
 ## Esquema elétrico
 O esquema elétrico do circuito pode ser encontrado no seguinte link: esquema elétrico
 
-<br><img src="circuit.jpeg">
+<br><img src="circuit.png">
 
 ## Funcionamento
 O sensor MQ-135 mede a quantidade de gases tóxicos no ar, como CO, amônia, benzeno, entre outros. Essas informações são processadas pelo microcontrolador Arduino, que as exibe no monitor LCD.
